@@ -35,3 +35,6 @@ def dividir(a, b):
 def potencia(base, exponente):
     """Retorna la base elevada al exponente."""
     return base ** exponente
+
+def modulo(a,b):   # ← falta espacio después de la coma → flake8 fallará
+    return a%b     # ← falta espacios alrededor del operador
