@@ -35,4 +35,3 @@ def dividir(a, b):
 def potencia(base, exponente):
     """Retorna la base elevada al exponente."""
     return base ** exponente
-    
