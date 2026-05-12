@@ -36,5 +36,7 @@ def potencia(base, exponente):
     """Retorna la base elevada al exponente."""
     return base ** exponente
 
+
 def modulo(a, b):
+    """Retorna el módulo de a entre b."""
     return a % b
